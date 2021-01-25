@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" time="0.633">
+  <testsuite name="#effectiveDamage()" errors="0" failures="0" skipped="0" timestamp="2021-01-25T17:51:14" time="0.302" tests="5">
+    <testcase classname="#effectiveDamage() 正常なダメージ計算ができる" name="#effectiveDamage() 正常なダメージ計算ができる" time="0.001">
+    </testcase>
+    <testcase classname="#effectiveDamage() 負の異常値におけるダメージ計算ができる" name="#effectiveDamage() 負の異常値におけるダメージ計算ができる" time="0">
+    </testcase>
+    <testcase classname="#effectiveDamage() 2000より大きい異常値におけるダメージ計算ができる" name="#effectiveDamage() 2000より大きい異常値におけるダメージ計算ができる" time="0.001">
+    </testcase>
+    <testcase classname="#effectiveDamage() 実効防御力は0未満にならない" name="#effectiveDamage() 実効防御力は0未満にならない" time="0">
+    </testcase>
+    <testcase classname="#effectiveDamage() ダメージは小数点以下を四捨五入して整数にする" name="#effectiveDamage() ダメージは小数点以下を四捨五入して整数にする" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
